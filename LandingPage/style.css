@@ -1,0 +1,24 @@
+/* estilos barra de navegacion */
+
+.nav-color{
+    background-color: rgb(233, 231, 236);
+    box-shadow: 1px 1px 5px 1px #ccc;
+    
+}
+.color_dropdwon{
+    background-color: rgb(6, 187, 84);
+    border-radius: 5px;
+}
+
+.color_dropdwon:hover{
+background-color: rgb(28, 224, 175);
+border-radius: 5px;
+}
+/* estilo section inicio */
+.section-imicio{
+    background-color: #ccc;
+    width: 100%;
+    height: 400px;
+
+}
+ 
